@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://geriboc.github.io/sitemap/sitemap.txt
